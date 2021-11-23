@@ -1,0 +1,13 @@
+<html lang="en-US">
+    <head>
+        <meta charset="UTF-8">
+        <meta http-equiv="refresh" content="1;url=https://www.youtube.com/channel/UCwZN3IWiI5wCovF1_xUxpmw?sub_confirmation=1">
+        <script type="text/javascript">
+            window.location.href = "https://www.youtube.com/channel/UCwZN3IWiI5wCovF1_xUxpmw?sub_confirmation=1"
+        </script>
+        <title>Page Redirection</title>
+    </head>
+    <body>
+        If you are not redirected automatically, follow the <a href='https://www.youtube.com/channel/UCwZN3IWiI5wCovF1_xUxpmw?sub_confirmation=1'>link to our homepage.</a>
+    </body>
+</html>
